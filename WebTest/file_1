@@ -1,0 +1,2 @@
+remote set-url origin git@github.com:dgyllborg/dgyllborg.github.com.git
+  git push origin master
